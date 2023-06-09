@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "CS:GO Defusal",
+    "slug": "crescros.csgodefusal",
+    "icon": "./assets/icon.png",
+    "version": "0.6.11",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "388308e6-2c84-4020-835c-9767b11590b5"
+      }
+    },
+    "android": {
+      "versionCode": 17
+    },
+    "ios": {
+      "buildNumber": "17"
+    },
+    "web": {
+      "favicon": "./assets/icon.png"
+    }
+  },
+  "name": "CS:GO Defusal"
+}

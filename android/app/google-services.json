@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "299078527556",
+    "project_id": "csgo-defusal",
+    "storage_bucket": "csgo-defusal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299078527556:android:7d47bf2c35662f46522a11",
+        "android_client_info": {
+          "package_name": "com.crescros.csgodefusal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "299078527556-37kefdfu57a46l3t9025fdq9mu0n5in4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7CCUEUh6TZAr_fgXvbME88FfQx-AnyTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "299078527556-37kefdfu57a46l3t9025fdq9mu0n5in4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
